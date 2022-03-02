@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeacAfdFAb5C7Bba807ef81486C527dFA35A6D35E",
+  "SCAN_LINK": "https://etherscan.io/address/0xeacafdfab5c7bba807ef81486c527dfa35a6d35e#code",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "SAD GAS",
+  "SYMBOL": "SG",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
